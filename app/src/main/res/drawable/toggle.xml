@@ -1,0 +1,14 @@
+<vector android:height="50dp" android:tint="#E43834"
+    android:viewportHeight="24" android:viewportWidth="24"
+    android:width="60dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@android:color/white" android:pathData="M17,7L7,7c-2.76,0 -5,2.24 -5,5s2.24,5 5,5h10c2.76,0 5,-2.24 5,-5s-2.24,-5 -5,-5zM17,15c-1.66,0 -3,-1.34 -3,-3s1.34,-3 3,-3 3,1.34 3,3 -1.34,3 -3,3z"/>
+    <text
+        android:text="Dzo"
+        android:typeface="serif"
+        android:textSize="16dp"
+        android:textColor="#E43834"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</vector>
